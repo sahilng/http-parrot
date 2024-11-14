@@ -18,4 +18,6 @@ app1:
     environment:
       SAY: "Polly want a cracker?"
       PORT: 8081
+    ports:
+        - "8081:8081"
 ```
