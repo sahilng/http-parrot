@@ -25,3 +25,7 @@ http-parrot:
     ports:
         - "8081:8081"
 ```
+
+```sh
+curl localhost:8081
+```
