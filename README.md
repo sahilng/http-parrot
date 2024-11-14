@@ -13,7 +13,7 @@ A minimal Flask app useful as a test service in containerized workflows
 ## In a Docker Compose File
 
 ```yaml
-app1:
+http-parrot:
     image: sahilng/http-parrot:latest
     environment:
       SAY: "Polly want a cracker?"
