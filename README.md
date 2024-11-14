@@ -1,3 +1,3 @@
 # http-parrot
 
-A minimal Flask service useful as a test service in containerized workflows
+A minimal Flask app useful as a test service in containerized workflows
