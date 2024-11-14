@@ -1,2 +1,9 @@
-venv
-*.sh
+# Ignore everything
+*
+
+# Allow specific files
+!.gitignore
+!app.py
+!Dockerfile
+!README.md
+!requirements.txt
